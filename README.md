@@ -30,6 +30,6 @@ while(alive):
     sleep()
     code()
 ```
-<img align="left" alt="Vineet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aditya142857&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
+<img align="left" alt="Vineet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Adi142857&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
   
   <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom&layout=compact&theme=tokyonight&card_width=445" />
