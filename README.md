@@ -4,7 +4,7 @@
   <br><br>
   <samp>
     <img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-I'm Aditya Ramakrishnan currently a Second Year Computer Engineering student <a href="http://www.siesgst.edu.in/" target="_blank"></a> :school: and an web developer:computer:. 
+I'm Aditya Ramakrishnan currently a Second Year Computer Engineering student <a href="http://www.siesgst.edu.in/" target="_blank"></a> :school: and a web developer:computer:. 
   </samp>  
 </p>
 
