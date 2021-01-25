@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**Adi142857/Adi142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <br><br>
+  <samp>
+    <img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+I'm Aditya Ramakrishnan currently a Second Year Computer Engineering student <a href="http://www.siesgst.edu.in/" target="_blank"></a> :school: and an web developer:computer:. 
+  </samp>  
+</p>
 
-Here are some ideas to get you started:
+### Skills  
+- Python
+- Javascript
+- C
+- Java
+- Html
+- Css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">
+  <samp>
+  <br><br>Contact me on <a href="mailto:aditya@gmail.com">Gmail</a> 
+   Phone number-8452962878
+  </samp>
+</h3>
+
+```
+while(alive):
+    eat()
+    sleep()
+    code()
+```
+<img align="left" alt="Vineet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vineet2000-dotcom&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
+  
+  <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet2000-dotcom&layout=compact&theme=tokyonight&card_width=445" />
